@@ -1,0 +1,15 @@
+C:\Users\Velichaisyi\Desktop\TrueType\TrueType\bin\Debug\net6.0\TrueType.exe
+C:\Users\Velichaisyi\Desktop\TrueType\TrueType\bin\Debug\net6.0\TrueType.deps.json
+C:\Users\Velichaisyi\Desktop\TrueType\TrueType\bin\Debug\net6.0\TrueType.runtimeconfig.json
+C:\Users\Velichaisyi\Desktop\TrueType\TrueType\bin\Debug\net6.0\TrueType.dll
+C:\Users\Velichaisyi\Desktop\TrueType\TrueType\bin\Debug\net6.0\TrueType.pdb
+C:\Users\Velichaisyi\Desktop\TrueType\TrueType\obj\Debug\net6.0\TrueType.csproj.AssemblyReference.cache
+C:\Users\Velichaisyi\Desktop\TrueType\TrueType\obj\Debug\net6.0\TrueType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Velichaisyi\Desktop\TrueType\TrueType\obj\Debug\net6.0\TrueType.AssemblyInfoInputs.cache
+C:\Users\Velichaisyi\Desktop\TrueType\TrueType\obj\Debug\net6.0\TrueType.AssemblyInfo.cs
+C:\Users\Velichaisyi\Desktop\TrueType\TrueType\obj\Debug\net6.0\TrueType.csproj.CoreCompileInputs.cache
+C:\Users\Velichaisyi\Desktop\TrueType\TrueType\obj\Debug\net6.0\TrueType.dll
+C:\Users\Velichaisyi\Desktop\TrueType\TrueType\obj\Debug\net6.0\refint\TrueType.dll
+C:\Users\Velichaisyi\Desktop\TrueType\TrueType\obj\Debug\net6.0\TrueType.pdb
+C:\Users\Velichaisyi\Desktop\TrueType\TrueType\obj\Debug\net6.0\TrueType.genruntimeconfig.cache
+C:\Users\Velichaisyi\Desktop\TrueType\TrueType\obj\Debug\net6.0\ref\TrueType.dll
