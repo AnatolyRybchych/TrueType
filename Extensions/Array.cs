@@ -12,6 +12,7 @@ namespace TrueType.Extensions
         {
             if(start < 0) throw new ArgumentOutOfRangeException("start < 0");
             if((long)start + count > int.MaxValue) count = count - start;
+            count = Math.Min(arr.Length, count);
             T[] result = new T[count];
 
             for (int i = 0; i < count; i++)

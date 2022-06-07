@@ -1,5 +1,4 @@
 ﻿
-
 namespace TrueType
 {
     class Program
